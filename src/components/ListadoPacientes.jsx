@@ -13,6 +13,7 @@ const ListadoPaciente = ({pacientes, setPaciente, eliminarPaciente, setPacientes
 
             {pacientes && pacientes.length ? (
                 <>
+                    
                     <h2 className="font-black text-3xl text-center">Listado Paciente</h2>
 
                     <p className="text-xl mt-5 mb-10 text-center">
