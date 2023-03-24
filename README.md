@@ -1,7 +1,7 @@
 # citas-react
 ![](https://desarrolloweb.com/storage/manual_images/7AtF20UBGzL4QneWOLjGGp0YqEwZv8mjfpwse0VE.png)
 
-Bien Venidos a mi primer proyecto en React 
+# Bien Venidos a mi primer proyecto en React 
 - Para Ejecutar el proyecto te dirijes a la carpeta "cita-react" y ejecutas el comando 
 ``` bash
     npm run dev
