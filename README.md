@@ -7,4 +7,4 @@
     npm run dev
 ```
 El proyecto está hecho con tailwindcss hoocks, States diseño responsivo firtNobile localStorag y más,
-Muchas Gracias y seguiré mejorando este archivo Readme.cmd ...chuuuu!!!
+Muchas Gracias y seguiré mejorando este archivo Readme.cmd ...chuuuu!!!😄😄😄
