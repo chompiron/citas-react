@@ -1,1 +1,8 @@
 # citas-react
+Bien Venidos a mi primer proyecto en React 
+- Para Ejecutar el proyecto te dirijes a la carpeta "cita-react" y ejecutas el comando 
+``` bash
+    npm run dev
+```
+El proyecto está hecho con tailwindcss hoocks, States diseño responsivo firtNobile localStorag y más,
+Muchas Gracias y seguiré mejorando este archivo Readme.cmd ...chuuuu!!!
